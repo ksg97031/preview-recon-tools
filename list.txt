@@ -1,4 +1,5 @@
 https://github.com/maurosoria/dirsearch https://asciinema.org/a/VmL4d51Ynpf5tsMtR3EP2imPo
 https://github.com/laramies/theHarvester https://asciinema.org/a/SbEhcymMlQivjwz6vXbI2EZyW
 https://github.com/xmendez/wfuzz https://asciinema.org/a/Ud3T9Dwk349zW7OozEbUzEKJk
+https://github.com/OWASP/Amass https://asciinema.org/a/BUobGz0Pg946wWwfGTyCKMh2y
 https://github.com/tomnomnom/waybackurls https://asciinema.org/a/blbfuoj6lB3eSaCwHtjKR1ynp
