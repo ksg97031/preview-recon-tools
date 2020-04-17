@@ -8,4 +8,4 @@
 ## dirsearch  
 [![asciicast](https://asciinema.org/a/VmL4d51Ynpf5tsMtR3EP2imPo.svg)](https://asciinema.org/a/VmL4d51Ynpf5tsMtR3EP2imPo)
 ## wfuzz  
-[![asciicast](https://asciinema.org/a/q4unlXnjMSxeZ5NaJE2rpByof.svg)](https://asciinema.org/a/q4unlXnjMSxeZ5NaJE2rpByof)
+[![asciicast](https://asciinema.org/a/Ud3T9Dwk349zW7OozEbUzEKJk.svg)](https://asciinema.org/a/Ud3T9Dwk349zW7OozEbUzEKJk)
