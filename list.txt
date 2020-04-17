@@ -1,1 +1,3 @@
 https://github.com/tomnomnom/waybackurls https://asciinema.org/a/blbfuoj6lB3eSaCwHtjKR1ynp
+https://github.com/maurosoria/dirsearch https://asciinema.org/a/VmL4d51Ynpf5tsMtR3EP2imPo
+https://github.com/xmendez/wfuzz https://asciinema.org/a/q4unlXnjMSxeZ5NaJE2rpByof
